@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![<litmuschaos>](https://circleci.com/gh/litmuschaos/litmus-helm/tree/master.svg?style=svg)](https://circleci.com/gh/litmuschaos/litmus-helm/tree/master)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frajdas98%2Flitmus-helm.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frajdas98%2Flitmus-helm?ref=badge_shield)
 
 Helm Charts for the Litmus ChaosCenter
 
@@ -109,3 +110,6 @@ We'd love to have you contribute! Please refer to our [contribution guidelines](
 ## License
 
 [Apache 2.0 License](./LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frajdas98%2Flitmus-helm.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frajdas98%2Flitmus-helm?ref=badge_large)
